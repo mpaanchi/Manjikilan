@@ -1,7 +1,6 @@
 # KODEE-Secure — Security Checklist
 
-> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
-
+> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../NOTICE.md) for scope, exclusions, and attribution requirements.
 
 Use this checklist alongside `skills/kodee-secure/SKILL.md`. It is a review aid, not a certification. Record evidence and mark untested controls honestly.
 
