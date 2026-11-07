@@ -14,6 +14,8 @@ A reusable security engineering toolkit for AI coding agents. KODEE-Secure provi
 
 | Path | Purpose |
 |---|---|
+| `LICENSE` | Creative Commons Attribution 4.0 International legal code |
+| `NOTICE.md` | Copyright, scope, exclusions, and attribution guidance |
 | `skills/kodee-secure/SKILL.md` | The master security skill and operating workflow |
 | `standards/security-checklist.md` | A cross-stack security review checklist |
 | `standards/cloudflare-hardening.md` | Cloudflare edge, WAF, origin, DNS, and email hardening |
@@ -57,7 +59,7 @@ New-Item -ItemType Directory -Force .agents/skills
 Copy-Item -Recurse Manjikilan/skills/kodee-secure .agents/skills/
 ~~~
 
-Change the destination folder to the path used by your agent. The table reflects documented project-level skill locations at the time of writing; support and discovery behavior can vary by product version and execution surface. Check the current host documentation before installing globally or into a managed/cloud agent.
+Change the destination folder to the path used by your agent. The table reflects documented project-level skill locations at the time of writing; support and discovery behaviour can vary by product version and execution surface. Check the current host documentation before installing globally or into a managed/cloud agent.
 
 ### 3. Confirm that the agent discovered the skill
 
@@ -128,4 +130,12 @@ Created and maintained by **The KØDE**.
 
 ## Licence
 
-No open-source licence has been added yet. Until the repository owner selects and adds a licence, do not assume that public visibility grants permission to reuse, modify, or redistribute the contents.
+Unless a file or section says otherwise, the original written materials listed in [NOTICE.md](./NOTICE.md) are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence.
+
+You may share and adapt those materials, including for commercial purposes, provided you follow the licence terms: give appropriate attribution, link to the licence, and indicate whether changes were made. CC BY 4.0 does not grant rights to The KØDE's names, logos, or trademarks, nor does it imply endorsement.
+
+- [Read the full licence](./LICENSE)
+- [Read the copyright and attribution notice](./NOTICE.md)
+- [Read the official CC BY 4.0 legal code](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+Future executable code or software packages added to this repository should receive a separately selected software licence. Do not assume CC BY 4.0 is the intended software-code licence.
