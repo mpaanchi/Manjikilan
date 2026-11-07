@@ -1,7 +1,6 @@
 # KODEE-Secure — AI Agent Security Standard
 
-> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
-
+> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../NOTICE.md) for scope, exclusions, and attribution requirements.
 
 This standard applies to LLM-powered features, autonomous agents, coding agents, retrieval-augmented generation (RAG), MCP integrations, browser agents, and systems that can call tools or change external state.
 
