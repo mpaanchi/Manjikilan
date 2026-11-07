@@ -1,5 +1,8 @@
 # KODEE-Secure — Cloudflare Hardening Standard
 
+> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
+
+
 This guide is a practical baseline for domains and applications using Cloudflare. It is not a universal configuration recipe. Confirm the product, plan, origin architecture, traffic profile, and current dashboard/API capabilities before changing anything.
 
 ## 1. Objectives
