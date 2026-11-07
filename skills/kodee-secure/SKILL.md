@@ -1,10 +1,10 @@
 ---
-
-> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
-
 name: kodee-secure
 description: Apply a structured security engineering workflow to new software builds, existing applications, APIs, databases, cloud infrastructure, CI/CD pipelines, AI agents, and production releases. Use this skill when designing security controls, threat-modelling, auditing code or configuration, investigating vulnerabilities, hardening Cloudflare or hosting, reviewing authentication and authorisation, preparing a deployment, remediating findings, or responding to a security incident.
 ---
+
+> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
+
 
 # KODEE-Secure
 
