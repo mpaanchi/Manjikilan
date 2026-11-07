@@ -1,5 +1,8 @@
 # KODEE-Secure — Production Release Gates
 
+> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
+
+
 Use these gates before exposing a new application, significant feature, infrastructure change, or security-sensitive update to production. Tailor the gates to the system's risk and document any accepted exceptions.
 
 ## 1. Release decision
