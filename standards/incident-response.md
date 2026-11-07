@@ -1,5 +1,8 @@
 # KODEE-Secure — Incident Response Playbook
 
+> Copyright © 2026 The KØDE. This original document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the repository [NOTICE](../../NOTICE.md) for scope, exclusions, and attribution requirements.
+
+
 This playbook provides a practical response structure for suspected or confirmed security incidents. Adapt it to the organisation's systems, contacts, contracts, insurance, and legal obligations before an incident occurs.
 
 ## 1. Objectives
